@@ -1,0 +1,12 @@
+# Ignore sensitive files
+*.env
+secrets.gs
+config.local.gs
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
